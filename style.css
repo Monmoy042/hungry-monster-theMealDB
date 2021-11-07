@@ -1,0 +1,25 @@
+body {
+	font-family: Roboto;
+}
+.search-area {
+	margin: 20px 0px 20px 0px;
+}
+.search-area input {
+	width: 570px;
+	height: 60px;
+	background-color: #f8f7f5;
+	border: none;
+	border-radius: 5px;
+	padding: 2px;
+}
+.search-area button {
+	width: 111px;
+	height: 60px;
+	background-color: #f06c4e;
+	color: #fff;
+	border: 1px solid white;
+	border-left: none;
+	border-radius: 5px;
+	margin-left: 5px;
+	padding: 2px;
+}
